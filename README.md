@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Florian Manhartseder
 - 👀 I’m interested in Electronics and IT
-- 🌱 I’m currently in a higher technical college
+- 🌱 I’m currently a Software developer in education working for a bank
 
 !! More Projects / Updates coming soon - Stay tuned !!
 
